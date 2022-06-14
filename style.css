@@ -1,0 +1,173 @@
+body{
+  margin-top: 0;
+
+}
+
+.nav-item{
+
+    padding:10px 50px;
+    height: 70px;
+
+  }
+
+.nav-item:hover{
+
+  background-color:#06b6d4;
+}
+nav{
+  background-color: #0891b2;
+  direction:rtl;
+  height: 70px;
+}
+.navbar-nav{
+  padding-right: 10px;
+}
+.name{
+  background-color: #0891b2;
+  text-align: center;
+  padding: 15px 10px;
+  color: #fff;
+  margin-top: 50px;;
+
+}
+h1, h2, h4{
+  font-family: 'Markazi Text', serif;
+
+}
+h5{
+  font-size: 20px;
+  text-align: right;
+  font-family: 'Markazi Text', serif;
+  padding-bottom: 10px;
+}
+
+.aboutMe{
+
+  margin: 0 auto 20px;
+
+  text-align: right;
+  border:  1px solid #0891b2;
+  border-top: 0;
+  padding: 20px;
+}
+p{
+    font-family: 'Markazi Text', serif;
+    font-size: 21px;
+}
+
+
+.list{
+
+  margin: 5px 0;
+  padding-top: 12px;
+
+}
+.bordr{
+  border:  1px solid #0891b2;
+}
+.box{
+  padding:10px;
+}
+
+.evaluation{
+  display:inline-block;
+}
+.good{
+color: #DAA520;
+}
+.bad{
+color: #C0C0C0;
+}
+
+.section{
+  margin-top: 40px;
+}
+.title{
+  background-color: #0891b2;
+  text-align: center;
+  padding: 15px 10px;
+  color: #fff;
+
+}
+
+.contentC{
+
+  border-style: outset;
+  margin: 30px 0;
+  width: 40%;
+}
+
+
+.table{
+  padding-top: 20px;
+  margin-top: 0;
+  padding-bottom: 10px;
+}
+
+.certificates{
+  display: inline-block;
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 5px;;
+  padding: 6px;
+  width: 110px;
+  border-radius:7px;
+  background-color: #fff;
+  border: 1px solid #0891b2;
+
+}
+.certificates:hover{
+box-shadow: 1.5px 1.5px inset #0891b2;
+
+}
+.pdf{
+  display: inline-block;
+  float:right;
+
+}
+#cv{
+  margin-top: 40px;
+}
+.cv{
+  /* margin: 50px auto 60px; */
+  /* margin-left: 42%; */
+  width: 10%;
+
+
+}
+.btn-cv{
+  background-color: #0891b2;
+  padding: 20px;
+  width:170px;
+  height: 80px;
+  border: 0;
+  border-radius: 8px;
+  color:#fff;
+
+}
+.btn-cv:hover{
+  background-color:#06b6d4;
+}
+.footer{
+  margin: 40px auto 0;
+  background-color: #0891b2;
+
+}
+.cont{
+  list-style: none;
+  margin: 40px auto 0;
+  width: 40%;
+}
+.contactList{
+  padding-left: 20px;
+  font-size: 25px;
+}
+.contactItem{
+display: inline-block;
+padding-top: 30px;
+width: 180px;
+color: #fff;
+}
+.link{
+  color: #fff;
+}
